@@ -1,7 +1,3 @@
----
-title: George Gerules
-layout: post
----
 
 ## George Gerules  
 
