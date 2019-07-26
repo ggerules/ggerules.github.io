@@ -4,7 +4,7 @@ Information for my Math and Computer Science side of my life can be found here.
 
 ### PhD dissertation on Scalability in Genetic Programming ACGPF 
 
-Code can be found at this [link](https://ggerules.gerules.io/lilgp1.03).  
+Code can be found at this [link](https://ggerules.github.io/lilgp1.03).  
 
 ### NASA FDL2.0 2017 
 
