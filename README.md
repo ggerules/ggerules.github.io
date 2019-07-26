@@ -1,3 +1,8 @@
+---
+title: George Gerules
+layout: post
+---
+
 ## George Gerules  
 
 Information for my Math and Computer Science side of my life can be found here.
